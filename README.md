@@ -443,6 +443,7 @@ private void ConfigureCharts()
 ---
 
 ## Authors
-**Group 12** - Database Systems Term Project, Fall 2025
+**Bahadır Özaydoğdu** - Database Systems Term Project, Fall 2025
 
-**Deadline**: 27.12.2025 09:00
+
+
